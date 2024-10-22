@@ -1,4 +1,4 @@
 # sample-repo
 This is sample repo
 <br>
-Author : Bhagya Sri G
+Author : Bhagya Sri Gangji
